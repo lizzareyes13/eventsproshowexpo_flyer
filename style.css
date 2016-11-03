@@ -1,0 +1,42 @@
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  /*resizes the width and height of the image*/
+  background-size: 550px 700px;
+  text-align: center;
+}
+h1{
+  text-shadow: .1em .1em #292b2d;
+  font-size: 3.74em;
+  color: white;
+}
+.header{
+  background-color: #ff0000;
+  width: 30em;
+  height: 9em;
+  margin: 0 auto;
+}
+#ollitaroja{
+  background-color: #998e68;
+  width: 20em;
+  height: 1.5em;
+  margin: 0 auto;
+}
+.paragraph{
+  background-color: white;
+  margin: 0 auto;
+  width: 20em;
+  height: 15em;
+  margin-top: 10em;
+}
+#trophy{
+  background-image: url("trophy.jpg");
+  width: 30em;
+  height: 28em;
+  margin: 0 auto;
+  opacity: 0.7;
+  filter: alpha(opacity=50);
+  margin-top: 1em;
+}
